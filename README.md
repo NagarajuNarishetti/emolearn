@@ -270,7 +270,7 @@ After an intense competition, we secured the 8th position nationally.
 
 - [Rohith Macharla](https://github.com/RohithMacharla11)
 - [Shiva Chaithanya Vangala](https://github.com/Shiva-vangala)
-- [Nagaraju Narishetti](https://github.com/Nagaraju-Narishetti)
+- [Nagaraju Narishetti](https://github.com/NagarajuNarishetti)
 - [Arun Kumar Pentkar](https://github.com/arunpentkar)
 - [Harshavardhan Jakku](https://github.com/Harshavardhanjakku)
 
