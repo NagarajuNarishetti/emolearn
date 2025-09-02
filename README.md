@@ -272,6 +272,7 @@ After an intense competition, we secured the 8th position nationally.
 - [Shiva Chaithanya Vangala](https://github.com/Shiva-vangala)
 - [Nagaraju Narishetti](https://github.com/NagarajuNarishetti)
 - [Arun Kumar Pentkar](https://github.com/arunpentkar)
+- [Rahul Sunny Satthu](https://github.com/RahulSunnySatthu)
 - [Harshavardhan Jakku](https://github.com/Harshavardhanjakku)
 
 ---
